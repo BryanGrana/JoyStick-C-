@@ -29,7 +29,7 @@ namespace _121224_JoystickVirtual
             lastMoveTime = DateTime.Now;
         }
         /*
-         * Funciona chungo xDDD
+         * Funciona raro, comentado para revisión
          * 
         // Sobreescribir el evento Paint para dibujar el fondo personalizado
         protected override void OnPaint(PaintEventArgs e)
