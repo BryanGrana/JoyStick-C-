@@ -1,0 +1,16 @@
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\_121224_JoystickVirtual.Form1.resources
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.csproj.GenerateResource.cache
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.AssemblyInfoInputs.cache
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.AssemblyInfo.cs
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.csproj.CoreCompileInputs.cache
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\bin\Debug\net8.0-windows\121224_JoystickVirtual.exe
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\bin\Debug\net8.0-windows\121224_JoystickVirtual.deps.json
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\bin\Debug\net8.0-windows\121224_JoystickVirtual.runtimeconfig.json
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\bin\Debug\net8.0-windows\121224_JoystickVirtual.dll
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\bin\Debug\net8.0-windows\121224_JoystickVirtual.pdb
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.dll
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\refint\121224_JoystickVirtual.dll
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.pdb
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\121224_JoystickVirtual.genruntimeconfig.cache
+C:\Users\illya\Desktop\Proyectos\121224_JoystickVirtual\121224_JoystickVirtual\obj\Debug\net8.0-windows\ref\121224_JoystickVirtual.dll
